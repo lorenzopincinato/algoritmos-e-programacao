@@ -1,6 +1,6 @@
-## Aula 1: _Comandos Iniciais_
+# Aula 1: _Comandos Iniciais_
 
-# Exercícios:
+## Exercícios:
 1. Leia um número inteiro e imprima o seu antecessor e o seu sucessor.
 1. Determine a área de um triângulo.
 1. Leia o salário mensal atual de um funcionário e o percentual de reajuste e determine o valor do novo salário.
